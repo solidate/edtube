@@ -5,3 +5,5 @@ googletrans==3.0.0
 torch==1.7.1+cpu
 allennlp==2.1.0 
 allennlp-models==2.1.0
+python-youtube=0.8.1
+yake==0.4.8
