@@ -1,0 +1,7 @@
+streamlit==0.89.0
+pandas==1.3.3
+googletrans==3.0.0
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cpu
+allennlp==2.1.0 
+allennlp-models==2.1.0
